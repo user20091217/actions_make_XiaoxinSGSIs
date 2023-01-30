@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://bigota.d.miui.com/20.10.21/miui_CRUX_20.10.21_59275e83fd_10.0.zip",
-  "rom_name": "miui_CRUX_20.10.21_59275e83fd_10.0.zip",
-  "pack_sgsi": "MIUI-12-AB_TiramisuX.7z",
+  "rom_url": "https://bigota.d.miui.com/20.9.1/miui_LAVENDER_20.9.1_e105c49767_10.0.zip",
+  "rom_name": "miui_LAVENDER_20.9.1_e105c49767_10.0.zip",
+  "pack_sgsi": "MIUI-20.9.1-AB_TiramisuX.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
