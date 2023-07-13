@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://bigota.d.miui.com/20.9.1/miui_LAVENDER_20.9.1_e105c49767_10.0.zip",
-  "rom_name": "miui_LAVENDER_20.9.1_e105c49767_10.0.zip",
-  "pack_sgsi": "MIUI-20.9.1-AB_TiramisuX.7z",
+  "rom_url": "https://bigota.d.miui.com/21.11.24/miui_GRUS_21.11.24_946ba46784_11.0.zip",
+  "rom_name": "miui_GRUS_21.11.24_946ba46784_11.0.zip",
+  "pack_sgsi": "MIUI-21.11.24-AB_xn12345.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
